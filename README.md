@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-<p> O objetivo deste projeto foi para treinar eventos e aprender a implementar os controles de tela. </p>
+<p> O objetivo deste projeto foi para treinar eventos (ações do usuário ou do sistema, clique  de mouse, pressionamento de tecla, carregamento de página, selecionador de caracteres)e aprender a implementar os controles de tela. </p>
 
 <p> Requisitos do projeto; </p>
 
